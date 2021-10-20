@@ -1,1 +1,1 @@
-# Diagn-stica
+# Diagnostica
